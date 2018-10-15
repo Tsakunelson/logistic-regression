@@ -12,7 +12,7 @@ File Descriptions -
 This repository consists of:
 
 - A Jupyter Notebook with Results displayed
-- The corresponging python 3.6 file
+- The corresponding python 3.6 file
 - The MNIST dataset
 
 Author: NELSON ZANGE TSAKU
